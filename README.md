@@ -4,7 +4,7 @@
 
 ### Larger headings
 
-## We can italisize using asterisks, *italics*, **bold**, ***three***
+## We can italisize using asterisks, *italics*, **bold**
 
 ## Use asterisks for list
 * one
