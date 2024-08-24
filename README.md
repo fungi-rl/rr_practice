@@ -1,4 +1,5 @@
 ## What to include in README.md file
+* Title and abstract of manuscript/project
 * Provide directory (files and brief description of project with comment "#")
 * Software dependencies and versions
 * Instructions on how to enter project
